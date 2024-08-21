@@ -12,7 +12,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l1uty)
 
-giaogiao我哩giao~
+Too lazy, don't want to pass the project, who can help me pass my project? 🤔
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=l1uty)
 
