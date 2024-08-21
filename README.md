@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋,I'm liuty/Liuty/Liu.T.Y/l1uty.
 
-<!--
-**l1uty/l1uty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm doing something I don't like.
+- 🌱 I'm learning things I don't want to learn.
+- 👯 I want a quiet life and you.
+- 💬 Ask me about things I don't know.
+- 📫 How to reach me: xxxxx
+- 😄 Welcome to my blog: [look](https://l1uty.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=l1uty&show_icons=true&theme=transparent)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=l1uty&theme=dracula)
