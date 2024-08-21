@@ -10,4 +10,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=l1uty&show_icons=true&theme=transparent)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=l1uty&theme=dracula)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l1uty)
+
+giaogiao我哩giao~
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=l1uty)
+
+
