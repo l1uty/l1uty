@@ -1,5 +1,7 @@
 ## Hi there 👋,I'm Bok_liuty1973.
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=World+Peace;世界和平)
+
 
 - 🔭 I'm doing something I don't like.
 - 🌱 I'm learning things I don't want to learn.
