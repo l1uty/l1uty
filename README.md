@@ -16,6 +16,7 @@
 
 Too lazy, don't want to pass the project, who can help me pass my project? 🤔
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=l1uty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1uty&layout=compact&theme=tokyonight)
+
 
 
