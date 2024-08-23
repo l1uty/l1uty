@@ -10,13 +10,15 @@
 - 📫 How to reach me: xxxxx
 - 😄 Welcome to my blog: [look](https://l1uty.github.io)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1uty&layout=compact&theme=tokyonight)
+
+Too lazy, don't want to pass the project, who can help me pass my project? 🤔
+
 ![](https://github-readme-stats.vercel.app/api?username=l1uty&show_icons=true&theme=transparent)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l1uty)
 
-Too lazy, don't want to pass the project, who can help me pass my project? 🤔
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1uty&layout=compact&theme=tokyonight)
 
 
 
