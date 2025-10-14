@@ -16,8 +16,6 @@ Too lazy, don't want to pass the project, who can help me pass my project? 🤔
 
 ![](https://github-readme-stats.vercel.app/api?username=l1uty&show_icons=true&theme=transparent)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=l1uty)
-
 
 
 
